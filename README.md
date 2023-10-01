@@ -17,11 +17,11 @@ Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este si
 
 ## 🛠️ Tecnologias utilizadas
 
-     <p>Java</p>
-     <p>Eclipse</p>
-     <p>MySql</p>
-     <p>Biblioteca JCalendar</p>
-     <p>Plugin WindowBuilder</p>
+     Java
+     Eclipse
+     MySql
+     Biblioteca JCalendar
+     Plugin WindowBuilder
      
 
 ## 📋 Dependências
@@ -32,7 +32,3 @@ Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este si
 
 
 ## 🚀 Desenvolvido por Monique Sales
-
-
-
-
